@@ -26,7 +26,7 @@ for single_date in daterange(start_date, end_date):
     # If the service is authenticated, set the key or token
     # key = '<your key or token>'
 
-    # example payload for bike share forecast future (next day)
+    # example payload
     data = {"data":
         [
             {
